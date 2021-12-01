@@ -29,6 +29,7 @@ font-size: 32px;
   border-radius: 50px 20px;
 }
 .poga:hover {opacity: 1}
+
  .label {
 color: #ff0000;
 font-weight: bold;
@@ -37,7 +38,6 @@ width: 150px;
 border-style: double;
 border: 2px black;
 border-radius: 50px 20px;
-margin: 50px 20px 50px 20px;
 background-color:#ffff66;
 }
 .img {
