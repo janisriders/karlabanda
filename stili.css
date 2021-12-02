@@ -42,6 +42,9 @@ text-align: center;
 }
 .img {
   border: 5px solid #555;
+  width:258px;
+  height:178px;
+  align-content: center;
 }
  .input{
 color: #ff0000;
@@ -62,9 +65,4 @@ border-radius: 50px 50px 50px 50px;
 padding: 7px 7px 7px 7px;
 height: 25px;
 width: 25px;
-}
-.bilde{
-  width:258px;
-  height:178px;
-  align-content: center;
 }
