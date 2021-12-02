@@ -4,7 +4,7 @@ padding: 16px 32px 8px;
 margin: 8px 12px;
 font-family: 'Trebuchet MS', Trebuchet MS, monospace;
 font-size: 32px;
-text-color:#ECECEC;
+color:#ECECEC;
 }
 .arejaKaste{
   border-style: double;
@@ -17,7 +17,7 @@ text-color:#ECECEC;
 .poga{
   background-color: #42135E;
   text-align: center;
-  text-color:#ECECEC;
+  color:#ECECEC;
   font-size: 16px;
   opacity: 0.6;
   transition: 0.3s;
@@ -32,7 +32,7 @@ text-color:#ECECEC;
 
  .label {
 background-color: #42135E;
-text-color:#ECECEC;
+color:#ECECEC;
 font-weight: bold;
 display: inline-block;
 width: 150px;
@@ -50,7 +50,7 @@ text-align: center;
 }
  .input{
 background-color: #42135E;
-text-color:#ECECEC;
+color:#ECECEC;
 display: inline-block;
 width: 150px;
 border: 2px solid;
