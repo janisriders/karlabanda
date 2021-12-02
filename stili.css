@@ -19,12 +19,12 @@ font-size: 32px;
   font-size: 16px;
   opacity: 0.6;
   transition: 0.3s;
-  display: block;
+  display: inline-block;
   cursor: pointer;
   border: 2px solid;
   border-radius: 50px 20px;
-  margin-left: 375px;
   padding: 7px 7px 7px 7px;
+  align-items: right;
 }
 .poga:hover {opacity: 1}
 
