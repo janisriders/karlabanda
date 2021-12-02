@@ -23,7 +23,7 @@ font-size: 32px;
   cursor: pointer;
   border: 2px solid;
   border-radius: 50px 20px;
-  float:right;
+  margin-left: 100px
   padding: 7px 7px 7px 7px;
   overflow: hidden;
 }
