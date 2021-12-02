@@ -23,9 +23,8 @@ font-size: 32px;
   cursor: pointer;
   border: 2px solid;
   border-radius: 50px 20px;
-  margin-left: 100px
+  margin-left: 100px;
   padding: 7px 7px 7px 7px;
-  overflow: hidden;
 }
 .poga:hover {opacity: 1}
 
