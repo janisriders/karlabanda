@@ -65,3 +65,7 @@ padding: 7px 7px 7px 7px;
 height: 25px;
 width: 25px;
 }
+.line{
+  size: 2;
+  width: 90%;
+}
