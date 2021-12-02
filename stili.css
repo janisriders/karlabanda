@@ -15,7 +15,7 @@ text-color:#ECECEC;
   width: 30%;
 }
 .poga{
-  background-color: #8A1BCE;
+  background-color: #42135E;
   text-align: center;
   text-color:#ECECEC;
   font-size: 16px;
@@ -31,7 +31,7 @@ text-color:#ECECEC;
 .poga:hover {opacity: 1}
 
  .label {
-background-color: #8A1BCE;
+background-color: #42135E;
 text-color:#ECECEC;
 font-weight: bold;
 display: inline-block;
@@ -49,7 +49,7 @@ text-align: center;
   float: center;
 }
  .input{
-background-color: #8A1BCE;
+background-color: #42135E;
 text-color:#ECECEC;
 display: inline-block;
 width: 150px;
@@ -71,5 +71,5 @@ width: 25px;
 }
 .line{
   width: 95%;
-  color: #ECECEC;
+  color: #42135E;
 }
