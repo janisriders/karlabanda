@@ -26,7 +26,7 @@ align: center;
   cursor: pointer;
   border: 2px solid;
   border-radius: 50px 20px;
-  align: right;
+  align-right;
 }
 .poga:hover {opacity: 1}
 
