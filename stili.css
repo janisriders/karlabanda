@@ -39,6 +39,9 @@ border-style: double;
 border: 2px solid;
 border-radius: 50px 50px 50px 50px;
 background-color:#ffff66;
+padding: 25px 25px 25px 25px;
+margin: 10px 10px 10px 10px;
+text-align: center;
 }
 .img {
   border: 5px solid #555;
