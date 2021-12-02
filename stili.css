@@ -54,3 +54,21 @@ padding: 7px 7px 7px 7px;
 margin: 10px 10px 10px 10px;
 text-align: center;
 }
+ .check{
+color: #ff0000;
+display: inline-block;
+width: 150px;
+border: 2px solid;
+border-radius: 50px 50px 50px 50px;
+padding: 7px 7px 7px 7px;
+}
+.select{
+color: #ff0000;
+display: inline-block;
+width: 150px;
+border: 2px solid;
+border-radius: 50px 50px 50px 50px;
+padding: 7px 7px 7px 7px;
+margin: 10px 10px 10px 10px;
+text-align: center;
+}
