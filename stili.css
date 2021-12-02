@@ -8,14 +8,15 @@ font-size: 32px;
 .arejaKaste{
   border-style: double;
   margin: 50px 20px 50px 20px;
-  background-color:#ffff66;
-  border-color: #ffcc00;
+  background-color:#2E2E2E;
+  border-color: #ECECEC;
   padding: 15px 15px 15px 15px;
   width: 30%;
 }
 .poga{
-  background-color: #ff0000;
+  background-color: #8A1BCE;
   text-align: center;
+  text-color:#ECECEC;
   font-size: 16px;
   opacity: 0.6;
   transition: 0.3s;
@@ -29,7 +30,8 @@ font-size: 32px;
 .poga:hover {opacity: 1}
 
  .label {
-color: #ff0000;
+background-color: #8A1BCE;
+text-color:#ECECEC;
 font-weight: bold;
 display: inline-block;
 width: 150px;
@@ -40,13 +42,14 @@ margin: 10px 10px 10px 10px;
 text-align: center;
 }
 .img {
-  border: 5px solid #555;
+  border: 5px solid #ECECEC;
   width:258px;
   height:178px;
   float: center;
 }
  .input{
-color: #ff0000;
+background-color: #8A1BCE;
+text-color:#ECECEC;
 display: inline-block;
 width: 150px;
 border: 2px solid;
@@ -56,7 +59,7 @@ margin: 10px 10px 10px 10px;
 text-align: center;
 }
  .check{
-color: #ff0000;
+color: #ECECEC;
 display: inline-block;
 width: 150px;
 border: 2px solid;
@@ -67,4 +70,5 @@ width: 25px;
 }
 .line{
   width: 95%;
+  color: #ECECEC;
 }
