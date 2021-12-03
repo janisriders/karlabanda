@@ -26,7 +26,7 @@ color:#ECECEC;
   border: 2px solid;
   border-radius: 50px 20px;
   padding: 7px 7px 7px 7px;
-  margin-left: 375px;
+  margin-left: 400px;
   font-family: 'Trebuchet MS', monospace;
 }
 .poga:hover {opacity: 1}
@@ -38,7 +38,7 @@ font-weight: bold;
 display: inline-block;
 width: 150px;
 border: 2px solid;
-border-radius: 50px 50px 50px 50px;
+border-radius: 25px 25px 25px 25px;
 padding: 7px 7px 7px 7px;
 margin: 10px 10px 10px 10px;
 text-align: center;
@@ -57,7 +57,7 @@ color:#ECECEC;
 display: inline-block;
 width: 150px;
 border: 2px solid;
-border-radius: 50px 50px 50px 50px;
+border-radius: 25px 25px 25px 25px;
 padding: 7px 7px 7px 7px;
 margin: 10px 10px 10px 10px;
 text-align: center;
